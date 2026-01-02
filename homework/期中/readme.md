@@ -1,4 +1,4 @@
-
+我是複製 https://github.com/havivha/Nand2Tetris
 
 ##  第一部分：硬體建設 (Ch 1 - 5)
 
